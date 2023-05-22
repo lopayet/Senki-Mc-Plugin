@@ -1,0 +1,4 @@
+name: SenkiPlugin
+version: '${project.version}'
+main: me.preggers.senkiplugin.SenkiPlugin
+api-version: 1.19
